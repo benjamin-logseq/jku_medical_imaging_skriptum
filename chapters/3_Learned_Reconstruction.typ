@@ -5,6 +5,7 @@
 
 == Recall: Inverse Problems
 
+
 Let $X = RR^n$ be the image space and $Y = RR^m$ be the measurement space. The inverse problem is defined as: $A x = y$ where $A in RR^(m times n)$ is the forward operator.
 
 One instances of that in Medical Imaging is Computed Tomography (CT) where $y$ is the sinogram data $A$ is the Radon transform.
